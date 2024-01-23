@@ -11,11 +11,6 @@ InstantID is a new state-of-the-art tuning-free method to achieve ID-Preserving 
 
 <img src='assets/applications.png'>
 
-## Release
-- [2024/1/22] 🔥 We release the [pre-trained checkpoints](https://huggingface.co/InstantX/InstantID), [inference code](https://github.com/InstantID/InstantID/blob/main/infer.py) and [gradio demo](https://huggingface.co/spaces/InstantX/InstantID)!
-- [2024/1/15] 🔥 We release the technical report.
-- [2023/12/11] 🔥 We launch the project page.
-
 ## Demos
 
 ### Stylized Synthesis
